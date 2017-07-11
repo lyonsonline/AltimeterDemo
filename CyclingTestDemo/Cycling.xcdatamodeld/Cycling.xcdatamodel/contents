@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16F73" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CyclingData" representedClassName=".CyclingData" syncable="YES">
+        <attribute name="altimeters" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="cyclingGeoLocations" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="cyclingLocations" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="endDate" attributeType="Date" usesScalarValueType="NO" indexed="YES" syncable="YES"/>
+        <attribute name="startDate" attributeType="Date" usesScalarValueType="NO" indexed="YES" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="CyclingData" positionX="-63" positionY="-18" width="128" height="120"/>
+    </elements>
+</model>
